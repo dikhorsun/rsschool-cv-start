@@ -1,1 +1,1 @@
-https://dikhorsun.github.io/rsschool-cv/
+https://dikhorsun.github.io/rsschool-cv-start/
